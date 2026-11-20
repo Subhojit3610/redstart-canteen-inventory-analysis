@@ -86,7 +86,7 @@ The sales and inventory data belong to the store and include its cost prices and
 
 ```
 redstart-canteen-inventory-analysis/
-├── notebooks/
+├── notebook/
 │   └── redstart_analysis.ipynb   # Python reproduction of the Excel analysis, with outputs
 ├── presentation/
 │   └── redstart_canteen_findings.pdf     # findings deck
